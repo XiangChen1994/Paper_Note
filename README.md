@@ -3,10 +3,10 @@ This rep is to record the papers I read recently, mainly focusing on medical ima
 
 ## Image Registration
 
-### [Coordinate translator for learning deformable medical image registration](https://arxiv.org/abs/2203.03626)[International Workshop on Multiscale Multimodal Medical Imaging]
-* **Note**： multi-layer registration, incorporate coordinate information
+### [Coordinate translator for learning deformable medical image registration](https://arxiv.org/abs/2203.03626)[International Workshop on Multiscale Multimodal Medical Imaging][2022]
+* **Note**： multi-scale registration, incorporate coordinate information
 
-### [DeepStrain: a deep learning workflow for the automated characterization of cardiac mechanics](https://www.frontiersin.org/articles/10.3389/fcvm.2021.730316/full)[Frontiers in Cardiovascular Medicine]
+### [DeepStrain: a deep learning workflow for the automated characterization of cardiac mechanics](https://www.frontiersin.org/articles/10.3389/fcvm.2021.730316/full)[Frontiers in Cardiovascular Medicine][2021]
 * **Note**： deep learning networks for segmentation and registration, [code](https://github.com/moralesq/DeepStrain) available for computing myocardial strain
 
 ## Image Segmentation
